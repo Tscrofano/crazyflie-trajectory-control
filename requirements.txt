@@ -1,0 +1,4 @@
+- ROS2
+- [Crazyswarm2](https://imrclab.github.io/crazyswarm2/)
+- Python 3
+- numpy
